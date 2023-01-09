@@ -7,7 +7,7 @@
 
 Skills: Python / Java / REACT / JS / HTML / CSS / SASS / Wordpress
 
-- 🔭 I’m currently working at CITICAN 
+- 🔭 I’m currently working at Uneatlantico 
 - 🌱 I’m currently learning Java 
 - 💬 Ask me about anything  
 
