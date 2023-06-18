@@ -26,8 +26,8 @@ I'm a Frontend Developer from El Salvador with a knack for turning caffeine into
 
 ## 📚 Currently
 
-- 🔭 Working at Uneatlantico 
-- 🌱 Learning Java
+- 🔭 Interning at Centro Tecnológica de Santander
+- 🌱 Learning at Universidad Europea del Atlántico
 
 ---
 
