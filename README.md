@@ -27,7 +27,7 @@ I'm a Frontend Developer from El Salvador with a knack for turning caffeine into
 ## 📚 Currently
 
 - 🔭 Interning at Centro Tecnológica de Santander
-- 🌱 Learning at Universidad Europea del Atlántico
+- 🌱 Studying at Universidad Europea del Atlántico
 
 ---
 
@@ -44,7 +44,3 @@ Feel free to ask me anything or reach out if you'd like to collaborate on a proj
 ![Hexcss' GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexcss&theme=prussian&show_icons=true)
 
 </div>
-
-<p align="center"> 
-  <img src="https://gpvc.arturio.dev/Hexcss" alt="Profile views">
-</p>
