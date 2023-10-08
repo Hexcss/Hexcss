@@ -14,7 +14,7 @@ I'm a Frontend Developer from El Salvador with a knack for turning caffeine into
 
 ## 🛠 Skills
 
-`Python` | `Java` | `React` | `JavaScript` | `HTML` | `CSS` | `Sass` | `Wordpress`
+`Python` | `Java` | `React` | `JavaScript` | `HTML` | `CSS` | `Sass` | `Typescript` | `NextJS`
 
 ---
 
